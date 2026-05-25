@@ -1,4 +1,4 @@
-# 👨‍💻 Juan Benjamín Santos González
+#  Juan Benjamín Santos González
 
 ## Tecnólogo en Análisis y Desarrollo de Software (ADSO) - SENA
 
@@ -8,11 +8,11 @@ Mi nombre es Juan Benjamín Santos González, aprendiz del SENA en el programa *
 
 ---
 
-## 🚀 Tecnologías y conocimientos
+## Tecnologías y conocimientos
 
 Durante mi formación he adquirido conocimientos en:
 
-### 💻 Desarrollo Web Frontend
+### Desarrollo Web Frontend
 - React
 - Vite
 - TypeScript
@@ -20,24 +20,24 @@ Durante mi formación he adquirido conocimientos en:
 - HTML5
 - CSS3
 
-### ⚙️ Backend y Bases de Datos
+### Backend y Bases de Datos
 - Node.js
 - APIs REST
 - MySQL
 - SQL
 
-### 📱 Desarrollo de Aplicaciones Móviles
+### Desarrollo de Aplicaciones Móviles
 - Flutter
 - Dart
 
-### 🛠️ Herramientas y tecnologías
+### Herramientas y tecnologías
 - Git
 - GitHub
 - Docker
 
 ---
 
-## 📌 Experiencia y proyectos
+##  Experiencia y proyectos
 
 Actualmente participo en el desarrollo de un proyecto para la empresa **PRONAVID**, dedicada a la distribución de cereales, galletas y otros productos alimenticios.
 
@@ -50,7 +50,7 @@ En este proyecto se está realizando:
 
 ---
 
-## 📈 Objetivos
+##  Objetivos
 
 Seguir fortaleciendo mis conocimientos en:
 - Desarrollo Fullstack
@@ -61,11 +61,11 @@ Seguir fortaleciendo mis conocimientos en:
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 - Teléfono: 312 3353125
 - Correo: juanbenjaminsantosgonzalez@gmail.com
 
 ---
 
-⭐ Siempre dispuesto a aprender nuevas tecnologías y asumir nuevos retos.
+*Siempre dispuesto a aprender nuevas tecnologías y asumir nuevos retos.
